@@ -2,7 +2,6 @@
 
 **A natural language query system for employee databases, dynamically adapting to any schema and supporting both structured and unstructured data.**
 
-![Project Demo](https://via.placeholder.com/800x400?text=Demo+Video+Placeholder)
 
 ## 📌 Overview
 
