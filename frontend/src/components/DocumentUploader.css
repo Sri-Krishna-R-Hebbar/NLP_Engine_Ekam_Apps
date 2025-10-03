@@ -1,0 +1,1 @@
+/* DocumentUploader.css */ .document-uploader { background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1); margin-top: 20px; } .document-uploader input[type=file] { display: block; margin-bottom: 10px; } .document-uploader button { background-color: #2ecc71; }

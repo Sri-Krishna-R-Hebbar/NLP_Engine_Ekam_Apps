@@ -1,0 +1,108 @@
+/* Home.css */
+.home-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f6f8;
+    }
+    .home-container h1 {
+    font-size: 2.5em;
+    color: #2c3e50;
+    }
+    .home-container p {
+    font-size: 1.2em;
+    color: #34495e;
+    }
+    .home-buttons {
+    margin-top: 20px;
+    }
+    .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    }
+    .btn:hover {
+    background-color: #2980b9;
+    }
+    
+    /* DocumentUploader.css */
+    .document-uploader {
+    padding: 20px;
+    background: #ecf0f1;
+    border-radius: 8px;
+    margin-top: 20px;
+    }
+    .file-input {
+    margin-bottom: 10px;
+    }
+    .upload-btn {
+    background-color: #2ecc71;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    .upload-btn:hover {
+    background-color: #27ae60;
+    }
+    .upload-msg {
+    margin-top: 10px;
+    color: #e74c3c;
+    }
+    
+    /* QueryPanel.css */
+    .query-panel {
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    margin-top: 20px;
+    }
+    .query-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    }
+    .execute-btn {
+    background-color: #e67e22;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    .execute-btn:hover {
+    background-color: #d35400;
+    }
+    
+    /* ResultsView.css */
+    .results-view {
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    }
+    .results-view h2 {
+    color: #2c3e50;
+    }
+    .results-view h3 {
+    color: #34495e;
+    }
+    .database-results pre {
+    background: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+    }
+    .document-results ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    }
+    

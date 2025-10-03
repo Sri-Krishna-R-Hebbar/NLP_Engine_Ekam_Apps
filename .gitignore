@@ -1,0 +1,19 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local test files
+test_*.py
+
+# Ignore uploads inside this folder (if any)
+uploads/
+*.pdf
+*.docx
+*.txt
+*.csv
+
+# Ignore environment files
+.env
+
+venv
