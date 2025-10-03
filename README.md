@@ -38,11 +38,10 @@ Built for the **Ekam Labs AI Engineering Assignment**, this solution is **schema
 
 | Component        | Technology            |
 | ---------------- | --------------------- |
-| Backend          | FastAPI (Python)      |
+| Backend          | Flask (Python)        |
 | Frontend         | React.js              |
-| Database         | PostgreSQL/MySQL      |
+| Database         | SQLite                |
 | Embeddings       | Sentence Transformers |
-| Caching          | Redis (optional)      |
 | Document Parsing | PyPDF2, python-docx   |
 
 ---
