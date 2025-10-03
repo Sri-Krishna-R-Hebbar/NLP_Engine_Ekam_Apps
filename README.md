@@ -48,47 +48,6 @@ Built for the **Ekam Labs AI Engineering Assignment**, this solution is **schema
 
 ---
 
-## 📦 Project Structure
-
-   NLP_ENGINE_EKAM_APPS
-		├── backend/
-		│   ├── api/
-		│   │   ├── models/
-		│   │   └── routes/
-		│   │       ├──__pycache__/
-		│   │       ├── debug.py
-		│   │       ├── ingestion.py
-		│   │       ├── query.py
-		│   │       └── schema.py
-		│   ├── services/
-		│   │   ├── __pycache__/
-		│   │   ├── document_processo...py
-		│   │   ├── query_engine.py
-		│   │   └── schema_discovery.py
-		│   ├── tests/
-		│   ├── uploads/
-		│   ├── venv/
-		│   ├── main.py
-		│   └── requirements.txt
-		├── frontend/
-		│   ├── node_modules/
-		│   ├── public/
-		│   └── src/
-		│       ├── components/
-		│       │   ├── DatabaseConnector.jsx
-		│       │   ├── DocumentUploader.jsx
-		│       │   ├── QueryPanel.jsx
-		│       │   └── ResultsView.jsx
-		│       ├── App.css
-		│       ├── App.jsx
-		│       ├── App.test.js
-		│       ├── index.css
-		│       ├── index.js
-		├── .gitignore
-		├── package-lock.json
-		├── package.json
-		└── README.md
-
 ## 📥 Setup & Installation
 
 ### Prerequisites
